@@ -8,7 +8,7 @@ A web application that utilizes the Spotify API to search for songs, artists, an
 
 ## Demo
 
-[Jammmin'](jammmin-ml.surge.sh)
+[Jammmin'](http://jammmin-ml.surge.sh)
 
 ## Future Developments
 
