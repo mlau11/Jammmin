@@ -12,6 +12,6 @@ A web application that utilizes the Spotify API to search for songs, artists, an
 
 ## Future Developments
 
-Include preview samples for each track
-Only display songs not currently present in the playlist in the search results
-Add a loading screen while playlist is saving
+Include preview samples for each track.\
+Only display songs not currently present in the playlist in the search results.\
+Add a loading screen while playlist is saving.\
