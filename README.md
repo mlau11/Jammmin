@@ -14,8 +14,6 @@ An application that utilizes the Spotify API to search for songs, artists, and a
 - Only display songs in the search results that are not already in the playlist.
 - Add a loading screen while playlist is saving.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Installation
 
 1. Download the project onto your computer.
